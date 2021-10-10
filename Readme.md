@@ -1,6 +1,6 @@
 Final Project for CS50
 
-Steno.ai : A web app which helps students take their lecture notes and summarize it into readable format
+Steno.ai : A web app which helps students take their lecture notes using speech recognition and summarizing the recorded transcript into key points.
 
 Video link for description: https://www.youtube.com/watch?v=PM2yk-WaZJA
 
